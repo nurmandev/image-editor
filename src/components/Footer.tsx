@@ -12,7 +12,7 @@ const Footer = () => {
             <p>
               Made with ❤️ by{" "}
               <Link
-                href="https://nurman.ng"
+                href="https://nurudeenm.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-medium hover:text-primary transition-colors"
